@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/IMDB-React/static/css/main.afb3f113.chunk.css",
+    "main.js": "/IMDB-React/static/js/main.28cc74dd.chunk.js",
+    "main.js.map": "/IMDB-React/static/js/main.28cc74dd.chunk.js.map",
+    "runtime-main.js": "/IMDB-React/static/js/runtime-main.2b7ccea3.js",
+    "runtime-main.js.map": "/IMDB-React/static/js/runtime-main.2b7ccea3.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/IMDB-React/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.ed7335c6.chunk.js": "/IMDB-React/static/js/2.ed7335c6.chunk.js",
+    "static/js/2.ed7335c6.chunk.js.map": "/IMDB-React/static/js/2.ed7335c6.chunk.js.map",
+    "index.html": "/IMDB-React/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/IMDB-React/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.afb3f113.chunk.css.map": "/IMDB-React/static/css/main.afb3f113.chunk.css.map",
+    "static/js/2.ed7335c6.chunk.js.LICENSE.txt": "/IMDB-React/static/js/2.ed7335c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b7ccea3.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.ed7335c6.chunk.js",
+    "static/css/main.afb3f113.chunk.css",
+    "static/js/main.28cc74dd.chunk.js"
+  ]
+}
